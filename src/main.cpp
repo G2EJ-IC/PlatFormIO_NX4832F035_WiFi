@@ -2,7 +2,7 @@
 //*************************************************************************************************//
 // Universidad Distrital Francisco José de Caldas
 // Facultad Tecnológica | Tecnología en Construcciones Civiles
-// Maestria en Ingenieria Civil | 2023-I | Ernesto J. Guerrero G. | ejguerrerog@udistrital.edu.co
+// Maestria en Ingenieria Civil | 2024-I | Ernesto J. Guerrero G. | ejguerrerog@udistrital.edu.co
 // Monitoreo AIoT
 // Microcontroladores.: NodeMCU ESP32
 //*************************************************************************************************//
